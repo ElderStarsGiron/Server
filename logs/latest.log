@@ -28,3 +28,8 @@ java.io.IOException: Referensen (handle) är felaktig
 [13:30:26] [Server thread/INFO]: [anviking: Set own game mode to Creative Mode]
 [13:31:05] [Server thread/INFO]: anviking lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
 [13:31:05] [Server thread/INFO]: anviking left the game
+[15:23:57] [User Authenticator #2/INFO]: UUID of player anviking is 19f6b97e38364e22a63093712bd0fa50
+[15:23:57] [Server thread/INFO]: anviking[/85.226.40.150:45040] logged in with entity id 10429 at (-75.46848019287378, 91.20000004768369, 430.1463334263265)
+[15:23:57] [Server thread/INFO]: anviking joined the game
+[15:27:28] [Server thread/INFO]: anviking lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[15:27:28] [Server thread/INFO]: anviking left the game
