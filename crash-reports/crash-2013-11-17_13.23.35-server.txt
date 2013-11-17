@@ -1,0 +1,35 @@
+---- Minecraft Crash Report ----
+// This doesn't make any sense!
+
+Time: 2013-11-17 13:23
+Description: Exception in server tick loop
+
+java.net.UnknownHostException: 10.0.1.5a
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$1.lookupAllHostAddr(Unknown Source)
+	at java.net.InetAddress.getAddressesFromNameService(Unknown Source)
+	at java.net.InetAddress.getAllByName0(Unknown Source)
+	at java.net.InetAddress.getAllByName(Unknown Source)
+	at java.net.InetAddress.getAllByName(Unknown Source)
+	at java.net.InetAddress.getByName(Unknown Source)
+	at lj.e(SourceFile:127)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:328)
+	at ky.run(SourceFile:617)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.2
+	Operating System: Windows 8 (amd64) version 6.2
+	Java Version: 1.7.0_45, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 469336456 bytes (447 MB) / 515375104 bytes (491 MB) up to 954728448 bytes (910 MB)
+	JVM Flags: 2 total; -Xms512m -Xmx1024m
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	Profiler Position: N/A (disabled)
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)

@@ -1,0 +1,101 @@
+[13:21:02] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[13:21:02] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Referensen (handle) är felaktig
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.7.0_45]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.7.0_45]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.7.0_45]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.7.0_45]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.7.0_45]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.7.0_45]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.7.0_45]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.7.0_45]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.7.0_45]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.7.0_45]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.7.0_45]
+	at ll.run(SourceFile:78) [minecraft_server.1.7.2.exe:?]
+[13:21:02] [Server thread/INFO]: Loading properties
+[13:21:02] [Server thread/INFO]: Default game type: SURVIVAL
+[13:21:02] [Server thread/ERROR]: Encountered an unexpected exception
+java.net.UnknownHostException: 10.0.1.5a
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[?:1.7.0_45]
+	at java.net.InetAddress$1.lookupAllHostAddr(Unknown Source) ~[?:1.7.0_45]
+	at java.net.InetAddress.getAddressesFromNameService(Unknown Source) ~[?:1.7.0_45]
+	at java.net.InetAddress.getAllByName0(Unknown Source) ~[?:1.7.0_45]
+	at java.net.InetAddress.getAllByName(Unknown Source) ~[?:1.7.0_45]
+	at java.net.InetAddress.getAllByName(Unknown Source) ~[?:1.7.0_45]
+	at java.net.InetAddress.getByName(Unknown Source) ~[?:1.7.0_45]
+	at lj.e(SourceFile:127) ~[minecraft_server.1.7.2.exe:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:328) [minecraft_server.1.7.2.exe:?]
+	at ky.run(SourceFile:617) [minecraft_server.1.7.2.exe:?]
+[13:21:02] [Server thread/ERROR]: This crash report has been saved to: C:\Users\Server\Desktop\Server\.\crash-reports\crash-2013-11-17_13.21.02-server.txt
+[13:21:42] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[13:21:42] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Referensen (handle) är felaktig
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.7.0_45]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.7.0_45]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.7.0_45]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.7.0_45]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.7.0_45]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.7.0_45]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.7.0_45]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.7.0_45]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.7.0_45]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.7.0_45]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.7.0_45]
+	at ll.run(SourceFile:78) [minecraft_server.1.7.2.exe:?]
+[13:21:42] [Server thread/INFO]: Loading properties
+[13:21:42] [Server thread/INFO]: Default game type: SURVIVAL
+[13:21:42] [Server thread/ERROR]: Encountered an unexpected exception
+java.net.UnknownHostException: 10.0.1.5a
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[?:1.7.0_45]
+	at java.net.InetAddress$1.lookupAllHostAddr(Unknown Source) ~[?:1.7.0_45]
+	at java.net.InetAddress.getAddressesFromNameService(Unknown Source) ~[?:1.7.0_45]
+	at java.net.InetAddress.getAllByName0(Unknown Source) ~[?:1.7.0_45]
+	at java.net.InetAddress.getAllByName(Unknown Source) ~[?:1.7.0_45]
+	at java.net.InetAddress.getAllByName(Unknown Source) ~[?:1.7.0_45]
+	at java.net.InetAddress.getByName(Unknown Source) ~[?:1.7.0_45]
+	at lj.e(SourceFile:127) ~[minecraft_server.1.7.2.exe:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:328) [minecraft_server.1.7.2.exe:?]
+	at ky.run(SourceFile:617) [minecraft_server.1.7.2.exe:?]
+[13:21:42] [Server thread/ERROR]: This crash report has been saved to: C:\Users\Server\Desktop\Server\.\crash-reports\crash-2013-11-17_13.21.42-server.txt
+[13:21:47] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[13:23:35] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[13:23:35] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Referensen (handle) är felaktig
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.7.0_45]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.7.0_45]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.7.0_45]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.7.0_45]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.7.0_45]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.7.0_45]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.7.0_45]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.7.0_45]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.7.0_45]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.7.0_45]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.7.0_45]
+	at ll.run(SourceFile:78) [minecraft_server.1.7.2.exe:?]
+[13:23:35] [Server thread/INFO]: Loading properties
+[13:23:35] [Server thread/INFO]: Default game type: SURVIVAL
+[13:23:35] [Server thread/ERROR]: Encountered an unexpected exception
+java.net.UnknownHostException: 10.0.1.5a
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[?:1.7.0_45]
+	at java.net.InetAddress$1.lookupAllHostAddr(Unknown Source) ~[?:1.7.0_45]
+	at java.net.InetAddress.getAddressesFromNameService(Unknown Source) ~[?:1.7.0_45]
+	at java.net.InetAddress.getAllByName0(Unknown Source) ~[?:1.7.0_45]
+	at java.net.InetAddress.getAllByName(Unknown Source) ~[?:1.7.0_45]
+	at java.net.InetAddress.getAllByName(Unknown Source) ~[?:1.7.0_45]
+	at java.net.InetAddress.getByName(Unknown Source) ~[?:1.7.0_45]
+	at lj.e(SourceFile:127) ~[minecraft_server.1.7.2.exe:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:328) [minecraft_server.1.7.2.exe:?]
+	at ky.run(SourceFile:617) [minecraft_server.1.7.2.exe:?]
+[13:23:35] [Server thread/ERROR]: This crash report has been saved to: C:\Users\Server\Desktop\Server\.\crash-reports\crash-2013-11-17_13.23.35-server.txt
+[13:24:25] [Server thread/INFO]: Stopping server
+[13:24:25] [Server thread/INFO]: Saving worlds
+[13:24:25] [Server thread/ERROR]: Exception stopping the server
+java.lang.NullPointerException
+	at net.minecraft.server.MinecraftServer.a(SourceFile:272) ~[minecraft_server.1.7.2.exe:?]
+	at net.minecraft.server.MinecraftServer.n(SourceFile:297) ~[minecraft_server.1.7.2.exe:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:390) [minecraft_server.1.7.2.exe:?]
+	at ky.run(SourceFile:617) [minecraft_server.1.7.2.exe:?]
+[13:24:25] [Server Shutdown Thread/INFO]: Stopping server
+[13:24:25] [Server Shutdown Thread/INFO]: Saving worlds
