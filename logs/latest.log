@@ -5,3 +5,10 @@
 [09:36:14] [Server thread/INFO]: anviking joined the game
 [09:41:34] [Server thread/INFO]: anviking lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
 [09:41:34] [Server thread/INFO]: anviking left the game
+[15:52:52] [User Authenticator #9/INFO]: UUID of player xErikox is 4bfcdc21282b490da1b7b880ccca0914
+[15:52:52] [Server thread/INFO]: xErikox[/83.150.146.103:30253] logged in with entity id 363851 at (-524.5478871601218, 119.36283205296849, 1126.9874552206384)
+[15:52:52] [Server thread/INFO]: xErikox joined the game
+[15:54:43] [Server thread/INFO]: [xErikox: Teleported xErikox to 0.5,0.5,0.5]
+[15:55:55] [Server thread/INFO]: [xErikox: Teleported xErikox to 0.5,63.5,0.5]
+[16:00:54] [Server thread/INFO]: xErikox lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:00:54] [Server thread/INFO]: xErikox left the game
