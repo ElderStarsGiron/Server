@@ -34,3 +34,16 @@
 [20:23:50] [Server thread/INFO]: xErikox[/83.150.146.103:53814] logged in with entity id 459938 at (459.0225951148807, 82.92210793313536, 123.738101176723)
 [20:23:50] [Server thread/INFO]: xErikox joined the game
 [20:27:55] [Server thread/INFO]: [xErikox: Set the time to 0]
+[20:39:32] [Server thread/INFO]: [xErikox: Set the time to 0]
+[20:50:09] [Server thread/INFO]: [xErikox: Toggled downfall]
+[20:56:38] [Server thread/INFO]: [xErikox: Set the time to 0]
+[21:09:51] [User Authenticator #13/INFO]: UUID of player anviking is 19f6b97e38364e22a63093712bd0fa50
+[21:09:51] [Server thread/INFO]: anviking[/83.150.146.103:48800] logged in with entity id 568667 at (1623.359662578961, 70.11439199948106, -687.7693073582633)
+[21:09:51] [Server thread/INFO]: anviking joined the game
+[21:10:08] [Server thread/INFO]: [anviking: Teleported anviking to xErikox]
+[21:11:05] [Server thread/INFO]: anviking fell out of the world
+[21:11:18] [Server thread/INFO]: anviking lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:11:18] [Server thread/INFO]: anviking left the game
+[21:30:51] [User Authenticator #14/INFO]: UUID of player DanielHmaN96 is 41675f7a3f9b4b909dd5bf4ea8f64045
+[21:30:51] [Server thread/INFO]: DanielHmaN96[/94.11.222.253:54177] logged in with entity id 593689 at (267.72656905673585, 89.40607350926243, 132.54426598919196)
+[21:30:51] [Server thread/INFO]: DanielHmaN96 joined the game
