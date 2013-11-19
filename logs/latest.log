@@ -18,3 +18,5 @@ java.io.IOException: Referensen (handle) är felaktig
 [18:51:29] [Server thread/INFO]: Generating keypair
 [18:51:29] [Server thread/INFO]: Starting Minecraft server on 10.0.1.5:25565
 [18:51:29] [Server thread/INFO]: Preparing level "astroe"
+[18:51:29] [Server thread/INFO]: Preparing start region for level 0
+[18:51:30] [Server thread/INFO]: Done (0,826s)! For help, type "help" or "?"
