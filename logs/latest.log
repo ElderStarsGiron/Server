@@ -1,1 +1,10 @@
 [03:00:16] [Server thread/WARN]: Time ran backwards! Did the system time change?
+[20:32:25] [Server thread/INFO]: Stopping server
+[20:32:25] [Server thread/INFO]: Saving players
+[20:32:25] [Server thread/INFO]: Saving worlds
+[20:32:25] [Server thread/INFO]: Saving chunks for level 'astroe'/Overworld
+[20:32:25] [Server thread/INFO]: Saving chunks for level 'astroe'/Nether
+[20:32:25] [Server thread/INFO]: Saving chunks for level 'astroe'/The End
+[20:32:26] [Server Shutdown Thread/INFO]: Stopping server
+[20:32:26] [Server Shutdown Thread/INFO]: Saving players
+[20:32:26] [Server Shutdown Thread/INFO]: Saving worlds
