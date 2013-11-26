@@ -18,3 +18,8 @@
 [15:24:27] [Server thread/INFO]: anviking joined the game
 [15:24:30] [Server thread/INFO]: anviking lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
 [15:24:30] [Server thread/INFO]: anviking left the game
+[18:35:41] [User Authenticator #13/INFO]: UUID of player anviking is 19f6b97e38364e22a63093712bd0fa50
+[18:35:41] [Server thread/INFO]: anviking[/85.226.42.17:39481] logged in with entity id 513857 at (9976.186035551464, 70.0, -9927.211475880864)
+[18:35:41] [Server thread/INFO]: anviking joined the game
+[18:48:58] [Server thread/INFO]: anviking lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:48:58] [Server thread/INFO]: anviking left the game
