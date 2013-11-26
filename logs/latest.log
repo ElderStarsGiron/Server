@@ -5,3 +5,8 @@
 [09:39:56] [Server thread/INFO]: anviking fell out of the world
 [09:40:56] [Server thread/INFO]: anviking lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
 [09:40:56] [Server thread/INFO]: anviking left the game
+[13:51:17] [User Authenticator #11/INFO]: UUID of player xErikox is 4bfcdc21282b490da1b7b880ccca0914
+[13:51:17] [Server thread/INFO]: xErikox[/83.150.146.103:55636] logged in with entity id 439185 at (1232.699999988079, 63.35929227138566, -139.45490252304592)
+[13:51:17] [Server thread/INFO]: xErikox joined the game
+[13:51:30] [Server thread/INFO]: xErikox fell out of the world
+[13:52:19] [Server thread/INFO]: xErikox has just earned the achievement [Taking Inventory]
