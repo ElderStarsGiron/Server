@@ -10,5 +10,5 @@ while [ 1 ];
 do
 NOW=$(date +"%H:%M %d/%m-%Y")
 git commit -am "Backup $NOW";
-sleep 3600;
+git push;sleep 3600;
 done
