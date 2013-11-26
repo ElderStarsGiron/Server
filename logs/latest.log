@@ -1,61 +1,7 @@
-[01:40:49] [User Authenticator #4/INFO]: UUID of player anviking is 19f6b97e38364e22a63093712bd0fa50
-[01:40:49] [Server thread/INFO]: anviking[/85.226.42.17:42151] logged in with entity id 71219 at (-252.62352899169883, 78.2040970303276, 528.3874832000807)
-[01:40:49] [Server thread/INFO]: anviking joined the game
-[01:43:18] [Server thread/INFO]: [anviking: Set the time to 1000]
-[01:43:55] [Server thread/INFO]: [anviking: Set own game mode to Survival Mode]
-[01:44:00] [Server thread/INFO]: [anviking: Set own game mode to Creative Mode]
-[01:50:11] [Server thread/INFO]: [anviking: Set the world spawn point to (1283, 100, 340)]
-[01:52:49] [Server thread/INFO]: [anviking: Set the time to 1000]
-[01:55:09] [Server thread/INFO]: anviking lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[01:55:09] [Server thread/INFO]: anviking left the game
-[13:19:10] [User Authenticator #5/INFO]: UUID of player anviking is 19f6b97e38364e22a63093712bd0fa50
-[13:19:10] [Server thread/INFO]: anviking[/85.226.42.17:37095] logged in with entity id 198007 at (3408.8900941069433, 141.75305219071453, -939.545628809378)
-[13:19:10] [Server thread/INFO]: anviking joined the game
-[13:19:18] [Server thread/INFO]: anviking fell out of the world
-[13:20:01] [User Authenticator #6/INFO]: UUID of player xErikox is 4bfcdc21282b490da1b7b880ccca0914
-[13:20:01] [Server thread/INFO]: xErikox[/83.150.146.103:17125] logged in with entity id 207911 at (-230.02762439119186, 74.0, 516.4775513521977)
-[13:20:01] [Server thread/INFO]: xErikox joined the game
-[13:20:11] [Server thread/INFO]: xErikox fell out of the world
-[13:24:58] [Server thread/INFO]: [anviking: Teleported xErikox to anviking]
-[13:25:43] [Server thread/INFO]: [anviking: Set the world spawn point to (1315, 64, -131)]
-[13:27:29] [Server thread/INFO]: anviking lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[13:27:29] [Server thread/INFO]: anviking left the game
-[13:29:32] [Server thread/INFO]: xErikox lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: En befintlig anslutning tvingades att stänga av fjärrvärddatorn], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[13:29:32] [Server thread/INFO]: xErikox left the game
-[14:07:28] [User Authenticator #7/INFO]: UUID of player anviking is 19f6b97e38364e22a63093712bd0fa50
-[14:07:28] [Server thread/INFO]: anviking[/85.226.42.17:37768] logged in with entity id 249758 at (1267.3545143178187, 64.79508460738445, -122.04322893469529)
-[14:07:28] [Server thread/INFO]: anviking joined the game
-[14:07:33] [Server thread/INFO]: [anviking: Set the time to 1000]
-[14:16:04] [Server thread/INFO]: anviking lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[14:16:04] [Server thread/INFO]: anviking left the game
-[14:17:37] [User Authenticator #8/INFO]: UUID of player xErikox is 4bfcdc21282b490da1b7b880ccca0914
-[14:17:38] [Server thread/INFO]: xErikox[/83.150.146.103:4847] logged in with entity id 280543 at (1274.0912842086132, 68.36445605997292, -113.22180585220464)
-[14:17:38] [Server thread/INFO]: xErikox joined the game
-[14:19:36] [Server thread/INFO]: xErikox lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: En befintlig anslutning tvingades att stänga av fjärrvärddatorn], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[14:19:36] [Server thread/INFO]: xErikox left the game
-[16:28:40] [User Authenticator #9/INFO]: UUID of player anviking is 19f6b97e38364e22a63093712bd0fa50
-[16:28:40] [Server thread/INFO]: anviking[/85.226.42.17:37685] logged in with entity id 282679 at (1296.5837965836952, 101.6002672745501, -59.24248759938366)
-[16:28:40] [Server thread/INFO]: anviking joined the game
-[16:29:26] [Server thread/INFO]: [anviking: Teleported anviking to 0.5,0.5,0.5]
-[16:31:32] [Server thread/INFO]: [anviking: Teleported anviking to 1000.5,1000.5,200.5]
-[16:31:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2260ms behind, skipping 45 tick(s)
-[16:32:14] [Server thread/INFO]: [anviking: Teleported anviking to 10000.5,200.5,10000.5]
-[16:32:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3147ms behind, skipping 62 tick(s)
-[16:35:16] [Server thread/INFO]: [anviking: Teleported anviking to -9999.5,100.5,-9999.5]
-[16:35:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3864ms behind, skipping 77 tick(s)
-[16:35:32] [Server thread/INFO]: [anviking: Teleported anviking to -9999.5,100.5,10000.5]
-[16:35:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3311ms behind, skipping 66 tick(s)
-[16:35:47] [Server thread/INFO]: [anviking: Teleported anviking to 10000.5,100.5,-9999.5]
-[16:35:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4696ms behind, skipping 93 tick(s)
-[16:37:02] [Server thread/INFO]: [anviking: Set the world spawn point to (9980, 69, -9933)]
-[16:37:30] [Server thread/INFO]: [anviking: Teleported anviking to 5000.5,100.5,-4999.5]
-[16:37:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3359ms behind, skipping 67 tick(s)
-[16:37:43] [Server thread/INFO]: [anviking: Teleported anviking to 8000.5,100.5,-7999.5]
-[16:37:49] [Server thread/INFO]: [anviking: Set the time to 1000]
-[16:39:43] [Server thread/INFO]: [anviking: Teleported anviking to 50000.5,100.5,-49999.5]
-[16:39:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3954ms behind, skipping 79 tick(s)
-[16:41:35] [Server thread/INFO]: [anviking: Teleported anviking to 500000.5,100.5,-499999.5]
-[16:41:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4018ms behind, skipping 80 tick(s)
-[16:43:04] [Server thread/INFO]: anviking fell out of the world
-[16:57:44] [Server thread/INFO]: anviking lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[16:57:44] [Server thread/INFO]: anviking left the game
+[09:38:55] [User Authenticator #10/INFO]: UUID of player anviking is 19f6b97e38364e22a63093712bd0fa50
+[09:38:55] [Server thread/INFO]: anviking[/83.150.146.103:64422] logged in with entity id 425702 at (9707.890007390519, 86.90199201756157, -10614.330585059875)
+[09:38:55] [Server thread/INFO]: anviking joined the game
+[09:39:03] [Server thread/INFO]: anviking fell out of the world
+[09:39:56] [Server thread/INFO]: anviking fell out of the world
+[09:40:56] [Server thread/INFO]: anviking lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[09:40:56] [Server thread/INFO]: anviking left the game
