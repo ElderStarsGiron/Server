@@ -37,3 +37,5 @@
 [20:44:54] [Server thread/INFO]: anviking[/85.226.42.17:48431] logged in with entity id 569282 at (9025.302831516376, 67.0, -9994.715444710322)
 [20:44:54] [Server thread/INFO]: anviking joined the game
 [20:45:25] [Server thread/INFO]: [anviking: Set the time to 1000]
+[21:19:24] [Server thread/INFO]: anviking lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:19:24] [Server thread/INFO]: anviking left the game
