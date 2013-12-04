@@ -1,8 +1,35 @@
-[00:53:52] [Server thread/INFO]: Stopping server
-[00:53:52] [Server thread/INFO]: Saving players
-[00:53:52] [Server thread/INFO]: Saving worlds
-[00:53:52] [Server thread/INFO]: Saving chunks for level 'astroe'/Overworld
-[00:53:52] [Server thread/INFO]: Saving chunks for level 'astroe'/Nether
-[00:53:52] [Server thread/INFO]: Saving chunks for level 'astroe'/The End
-[00:53:52] [Server Shutdown Thread/INFO]: Stopping server
-[00:53:52] [Server Shutdown Thread/INFO]: Saving players
+[15:31:40] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[15:31:40] [Server thread/INFO]: Loading properties
+[15:31:40] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Referensen (handle) är felaktig
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.7.0_45]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.7.0_45]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.7.0_45]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.7.0_45]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.7.0_45]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.7.0_45]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.7.0_45]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.7.0_45]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.7.0_45]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.7.0_45]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.7.0_45]
+	at ll.run(SourceFile:78) [minecraft_server.1.7.2.exe:?]
+[15:31:40] [Server thread/INFO]: Default game type: SURVIVAL
+[15:31:40] [Server thread/INFO]: Generating keypair
+[15:31:41] [Server thread/INFO]: Starting Minecraft server on 10.0.1.5:25565
+[15:31:41] [Server thread/INFO]: Preparing level "astroe"
+[15:31:41] [Server thread/ERROR]: Exception reading .\astroe\level.dat
+java.util.zip.ZipException: Not in GZIP format
+	at java.util.zip.GZIPInputStream.readHeader(Unknown Source) ~[?:1.7.0_45]
+	at java.util.zip.GZIPInputStream.<init>(Unknown Source) ~[?:1.7.0_45]
+	at java.util.zip.GZIPInputStream.<init>(Unknown Source) ~[?:1.7.0_45]
+	at dr.a(SourceFile:12) ~[minecraft_server.1.7.2.exe:?]
+	at axd.c(SourceFile:56) [minecraft_server.1.7.2.exe:?]
+	at awz.b(SourceFile:88) [minecraft_server.1.7.2.exe:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:123) [minecraft_server.1.7.2.exe:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:165) [minecraft_server.1.7.2.exe:?]
+	at lj.e(SourceFile:186) [minecraft_server.1.7.2.exe:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:328) [minecraft_server.1.7.2.exe:?]
+	at ky.run(SourceFile:617) [minecraft_server.1.7.2.exe:?]
+[15:31:41] [Server thread/INFO]: Preparing start region for level 0
+[15:31:42] [Server thread/INFO]: Done (0,902s)! For help, type "help" or "?"
