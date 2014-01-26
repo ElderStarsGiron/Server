@@ -1,6 +1,6 @@
-[15:31:40] [Server thread/INFO]: Starting minecraft server version 1.7.2
-[15:31:40] [Server thread/INFO]: Loading properties
-[15:31:40] [Server console handler/ERROR]: Exception handling console input
+[07:41:14] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[07:41:14] [Server thread/INFO]: Loading properties
+[07:41:14] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: Referensen (handle) är felaktig
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.7.0_45]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.7.0_45]
@@ -14,11 +14,11 @@ java.io.IOException: Referensen (handle) är felaktig
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.7.0_45]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.7.0_45]
 	at ll.run(SourceFile:78) [minecraft_server.1.7.2.exe:?]
-[15:31:40] [Server thread/INFO]: Default game type: SURVIVAL
-[15:31:40] [Server thread/INFO]: Generating keypair
-[15:31:41] [Server thread/INFO]: Starting Minecraft server on 10.0.1.5:25565
-[15:31:41] [Server thread/INFO]: Preparing level "astroe"
-[15:31:41] [Server thread/ERROR]: Exception reading .\astroe\level.dat
+[07:41:14] [Server thread/INFO]: Default game type: SURVIVAL
+[07:41:14] [Server thread/INFO]: Generating keypair
+[07:41:14] [Server thread/INFO]: Starting Minecraft server on 10.0.1.5:25565
+[07:41:15] [Server thread/INFO]: Preparing level "astroe"
+[07:41:15] [Server thread/ERROR]: Exception reading .\astroe\level.dat
 java.util.zip.ZipException: Not in GZIP format
 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source) ~[?:1.7.0_45]
 	at java.util.zip.GZIPInputStream.<init>(Unknown Source) ~[?:1.7.0_45]
@@ -31,5 +31,7 @@ java.util.zip.ZipException: Not in GZIP format
 	at lj.e(SourceFile:186) [minecraft_server.1.7.2.exe:?]
 	at net.minecraft.server.MinecraftServer.run(SourceFile:328) [minecraft_server.1.7.2.exe:?]
 	at ky.run(SourceFile:617) [minecraft_server.1.7.2.exe:?]
-[15:31:41] [Server thread/INFO]: Preparing start region for level 0
-[15:31:42] [Server thread/INFO]: Done (0,902s)! For help, type "help" or "?"
+[07:41:15] [Server thread/INFO]: Preparing start region for level 0
+[07:41:16] [Server thread/INFO]: Preparing spawn area: 56%
+[07:41:16] [Server thread/INFO]: Done (1,418s)! For help, type "help" or "?"
+[07:45:21] [Server Shutdown Thread/INFO]: Stopping server
