@@ -1,37 +1,50 @@
-[07:41:14] [Server thread/INFO]: Starting minecraft server version 1.7.2
-[07:41:14] [Server thread/INFO]: Loading properties
-[07:41:14] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Referensen (handle) �r felaktig
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.7.0_45]
-	at java.io.FileInputStream.read(Unknown Source) ~[?:1.7.0_45]
-	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.7.0_45]
-	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.7.0_45]
-	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.7.0_45]
-	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.7.0_45]
-	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.7.0_45]
-	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.7.0_45]
-	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.7.0_45]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.7.0_45]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.7.0_45]
-	at ll.run(SourceFile:78) [minecraft_server.1.7.2.exe:?]
-[07:41:14] [Server thread/INFO]: Default game type: SURVIVAL
-[07:41:14] [Server thread/INFO]: Generating keypair
-[07:41:14] [Server thread/INFO]: Starting Minecraft server on 10.0.1.5:25565
-[07:41:15] [Server thread/INFO]: Preparing level "astroe"
-[07:41:15] [Server thread/ERROR]: Exception reading .\astroe\level.dat
-java.util.zip.ZipException: Not in GZIP format
-	at java.util.zip.GZIPInputStream.readHeader(Unknown Source) ~[?:1.7.0_45]
-	at java.util.zip.GZIPInputStream.<init>(Unknown Source) ~[?:1.7.0_45]
-	at java.util.zip.GZIPInputStream.<init>(Unknown Source) ~[?:1.7.0_45]
-	at dr.a(SourceFile:12) ~[minecraft_server.1.7.2.exe:?]
-	at axd.c(SourceFile:56) [minecraft_server.1.7.2.exe:?]
-	at awz.b(SourceFile:88) [minecraft_server.1.7.2.exe:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:123) [minecraft_server.1.7.2.exe:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:165) [minecraft_server.1.7.2.exe:?]
-	at lj.e(SourceFile:186) [minecraft_server.1.7.2.exe:?]
-	at net.minecraft.server.MinecraftServer.run(SourceFile:328) [minecraft_server.1.7.2.exe:?]
-	at ky.run(SourceFile:617) [minecraft_server.1.7.2.exe:?]
-[07:41:15] [Server thread/INFO]: Preparing start region for level 0
-[07:41:16] [Server thread/INFO]: Preparing spawn area: 56%
-[07:41:16] [Server thread/INFO]: Done (1,418s)! For help, type "help" or "?"
-[07:45:21] [Server Shutdown Thread/INFO]: Stopping server
+[11:17:58] [User Authenticator #2/INFO]: UUID of player fjuf is 11b14fc4-79fb-4f31-b093-4f7bfd3fa019
+[11:17:59] [Server thread/INFO]: fjuf[/178.28.202.49:4635] logged in with entity id 2456 at (796.1877563125333, 69.7000000178814, 1110.7572772906644)
+[11:17:59] [Server thread/INFO]: fjuf joined the game
+[11:18:11] [Server thread/INFO]: fjuf lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[11:18:11] [Server thread/INFO]: fjuf left the game
+[12:56:51] [User Authenticator #3/INFO]: UUID of player fjuf is 11b14fc4-79fb-4f31-b093-4f7bfd3fa019
+[12:56:51] [Server thread/INFO]: fjuf[/178.28.202.49:6886] logged in with entity id 3311 at (799.9692762870633, 74.7000000178814, 1119.4807565440378)
+[12:56:51] [Server thread/INFO]: fjuf joined the game
+[12:56:52] [Server thread/INFO]: Opped fjuf
+[12:57:38] [Server thread/INFO]: fjuf lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[12:57:38] [Server thread/INFO]: fjuf left the game
+[13:01:04] [User Authenticator #4/INFO]: UUID of player anviking is 19f6b97e-3836-4e22-a630-93712bd0fa50
+[13:01:04] [Server thread/INFO]: anviking[/85.226.41.30:44079] logged in with entity id 4028 at (173.2841907313346, 63.0, -51.65077372694526)
+[13:01:04] [Server thread/INFO]: anviking joined the game
+[13:01:46] [User Authenticator #5/INFO]: UUID of player fjuf is 11b14fc4-79fb-4f31-b093-4f7bfd3fa019
+[13:01:46] [Server thread/INFO]: fjuf[/178.28.202.49:7090] logged in with entity id 5517 at (709.677137567944, 71.7000000178814, 1091.9043895501263)
+[13:01:46] [Server thread/INFO]: fjuf joined the game
+[13:01:52] [Server thread/INFO]: [fjuf: Teleported fjuf to anviking]
+[13:01:52] [Server thread/INFO]: [anviking: Set own game mode to Creative Mode]
+[13:02:04] [Server thread/INFO]: <fjuf> wolo
+[13:02:12] [Server thread/INFO]: <fjuf> förlorade min häst på detdär :(
+[13:02:18] [Server thread/INFO]: <anviking> var ska spawn vara?
+[13:02:23] [Server thread/INFO]: <anviking> ute i savannen?
+[13:03:46] [Server thread/INFO]: [anviking: Teleported anviking to fjuf]
+[13:04:14] [Server thread/INFO]: <fjuf> eh
+[13:04:16] [Server thread/INFO]: <fjuf> Typ
+[13:04:24] [Server thread/INFO]: <fjuf> Just utanför detta kanske?
+[13:04:53] [Server thread/INFO]: <anviking> men en liten bit bort
+[13:05:35] [Server thread/INFO]: [anviking: Teleported fjuf to anviking]
+[13:05:44] [Server thread/INFO]: <anviking> ?
+[13:05:48] [Server thread/INFO]: <fjuf> Blir bra
+[13:05:53] [Server thread/INFO]: fjuf lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[13:05:53] [Server thread/INFO]: fjuf left the game
+[13:06:00] [Server thread/INFO]: [anviking: Set the world spawn point to (19, 70, 23)]
+[13:06:23] [Server thread/INFO]: anviking lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[13:06:23] [Server thread/INFO]: anviking left the game
+[13:11:35] [User Authenticator #6/INFO]: UUID of player anviking is 19f6b97e-3836-4e22-a630-93712bd0fa50
+[13:11:35] [Server thread/INFO]: anviking[/85.226.41.30:42484] logged in with entity id 11506 at (103.96991456369514, 93.104910927463, -32.47918566477536)
+[13:11:35] [Server thread/INFO]: anviking joined the game
+[13:11:41] [Server thread/INFO]: anviking lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[13:11:41] [Server thread/INFO]: anviking left the game
+[13:11:44] [User Authenticator #7/INFO]: UUID of player anviking is 19f6b97e-3836-4e22-a630-93712bd0fa50
+[13:11:44] [Server thread/INFO]: anviking[/85.226.41.30:33294] logged in with entity id 11877 at (103.96991456369514, 93.104910927463, -32.47918566477536)
+[13:11:44] [Server thread/INFO]: anviking joined the game
+[13:14:53] [Server thread/INFO]: anviking lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[13:14:53] [Server thread/INFO]: anviking left the game
+[13:15:18] [User Authenticator #8/INFO]: UUID of player anviking is 19f6b97e-3836-4e22-a630-93712bd0fa50
+[13:15:18] [Server thread/INFO]: anviking[/85.226.41.30:34988] logged in with entity id 16137 at (94.23863567380583, 74.86435596545438, -1.2226240971672873)
+[13:15:18] [Server thread/INFO]: anviking joined the game
+[13:27:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2602ms behind, skipping 52 tick(s)
